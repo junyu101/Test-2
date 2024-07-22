@@ -2,7 +2,8 @@
 
 /* body{
     background-color: black;
-}
+}\
+
 
 div{
     display: flex;
@@ -25,3 +26,30 @@ img{
     border-color: silver;
     box-shadow: 5px 5px 25px silver;
 } */
+
+body{
+   background-color: black; 
+}
+
+h1{
+    color: antiquewhite;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 40vh;
+    width: 40vh;
+    margin: 50px;
+    border-style: ridge;
+    border-width: 30px;
+    border-color: silver;
+    box-shadow: 5px 5px 25px silver;
+
+}
